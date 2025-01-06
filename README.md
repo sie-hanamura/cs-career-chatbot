@@ -2,8 +2,8 @@
 
 **Group Members:**
 - Hallig, Siera Q.
-- Macasaet, Kate Ashley
-- Torres, Tracy San Jose.
+- Macasaet, Kate A.
+- Torres, Tracy SJ.
   
 **C&Y:** BSCS 3B IS
 
