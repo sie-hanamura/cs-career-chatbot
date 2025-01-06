@@ -16,10 +16,10 @@
 This CS Career Guidance Chatbot is an interactive tool designed to help users explore diverse career opportunities in the field of computer science. By analyzing user inputs, the chatbot provides tailored information about roles, skills, tasks, and interests.
 
 ## Table of Contents
-*   [Code](Final-Project-Chatbot/Career_Chatbot.ipynb)
-*   [Data (Preprocessed)](Final-Project-Chatbot/Occupations.csv)
-*   [Documentation](Final-Project-Chatbot/Report.pdf)
-*   [Video Presentation](Final-Project-Chatbot/Chatbot_Video_Presentation.mp4)
+*   [Code](Final-Project-Chatbot/code/Career_Chatbot.ipynbb)
+*   [Data (Preprocessed)](Final-Project-Chatbot/data/Occupations.csv)
+*   [Documentation](Final-Project-Chatbot/documentation/Report.pdf)
+*   [Video Presentation](Final-Project-Chatbot/video/Chatbot_Video_Presentation.mp4)
 
 ## Features
 - **Career Recommendations:** Suggests roles in computer science based on user interests.
