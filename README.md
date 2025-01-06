@@ -17,7 +17,7 @@ This CS Career Guidance Chatbot is an interactive tool designed to help users ex
 
 ## Table of Contents
 *   [Code](Final-Project-Chatbot/Career_Chatbot.ipynb)
-*   [Data](Final-Project-Chatbot/Occupations.csv)
+*   [Data (Preprocessed)](Final-Project-Chatbot/Occupations.csv)
 *   [Documentation](Final-Project-Chatbot/Report.pdf)
 *   [Video Presentation](Final-Project-Chatbot/Chatbot_Video_Presentation.mp4)
 
