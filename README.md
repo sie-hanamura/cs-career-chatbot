@@ -1,12 +1,5 @@
 # Final-Project-Chatbot
 
-**Group Members:**
-- Hallig, Siera Q.
-- Macasaet, Kate A.
-- Torres, Tracy SJ.
-  
-**C&Y:** BSCS 3B IS
-
 **Subject Code:** CSST 101 **|** CSST 102
 
 **Course Title:** Advance Representation and Reasoning **|** Basic Machine Learning
